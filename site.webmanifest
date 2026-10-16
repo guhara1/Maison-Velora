@@ -1,0 +1,1 @@
+{"name": "쉼손", "short_name": "쉼손", "lang": "ko", "description": "서울·경기·인천·부산 출장 마사지·홈타이 방문 안내", "start_url": "/", "display": "standalone", "background_color": "#F7F4F0", "theme_color": "#4A3526", "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]}
